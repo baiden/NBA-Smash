@@ -124,7 +124,8 @@ public class MainActivity extends AppCompatActivity {
         if (scoreLakers>=100){
             Toast.makeText(this, "Los Angeles Lakers won! Try again?", Toast.LENGTH_LONG).show();
             disableButtons();
-        } else if (scoreCeltics >= 100){
+        }
+        if (scoreCeltics >= 100){
             Toast.makeText(this, "Boston Celtics won! Try again?", Toast.LENGTH_LONG).show();
             disableButtons();
         }

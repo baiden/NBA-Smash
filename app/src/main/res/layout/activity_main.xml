@@ -30,6 +30,7 @@
                         android:layout_alignParentStart="true"
                         android:layout_centerVertical="true"
                         android:paddingTop="6dp"
+                        android:elevation="4dp"
                         android:src="@drawable/lakers"
                         android:contentDescription="@string/lakers_logo" />
 
@@ -65,6 +66,7 @@
                     android:layout_marginBottom="8dp"
                     android:layout_marginLeft="24dp"
                     android:layout_marginRight="24dp"
+                    android:elevation="4dp"
                     android:onClick="addThreeForLakers"
                     android:text="@string/lakers_plus_threePoints" />
 
@@ -75,6 +77,7 @@
                     android:layout_marginBottom="8dp"
                     android:layout_marginLeft="24dp"
                     android:layout_marginRight="24dp"
+                    android:elevation="4dp"
                     android:onClick="addTwoForLakers"
                     android:text="@string/lakers_plus_twoPoints" />
 
@@ -84,6 +87,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="24dp"
                     android:layout_marginRight="24dp"
+                    android:elevation="4dp"
                     android:onClick="addOneForLakers"
                     android:text="@string/lakers_plus_onePoint" />
             </LinearLayout>
@@ -114,6 +118,7 @@
                         android:layout_alignParentStart="true"
                         android:layout_centerVertical="true"
                         android:paddingTop="6dp"
+                        android:elevation="4dp"
                         android:contentDescription="@string/celtics_logo"
                         android:src="@drawable/celtics"/>
 
@@ -149,6 +154,7 @@
                     android:layout_marginBottom="8dp"
                     android:layout_marginLeft="24dp"
                     android:layout_marginRight="24dp"
+                    android:elevation="4dp"
                     android:onClick="addThreeForCeltics"
                     android:text="@string/celtics_plus_threePoints" />
 
@@ -159,6 +165,7 @@
                     android:layout_marginBottom="8dp"
                     android:layout_marginLeft="24dp"
                     android:layout_marginRight="24dp"
+                    android:elevation="4dp"
                     android:onClick="addTwoForCeltics"
                     android:text="@string/celtics_plus_twoPoints" />
 
@@ -168,6 +175,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="24dp"
                     android:layout_marginRight="24dp"
+                    android:elevation="4dp"
                     android:onClick="addOneForCeltics"
                     android:text="@string/celtics_plus_onePoint" />
             </LinearLayout>
@@ -180,6 +188,7 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="10dp"
+            android:elevation="4dp"
             android:onClick="setBothTeamsToZero"
             android:text="@string/resetBtn" />
 
