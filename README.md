@@ -21,3 +21,5 @@ Create a Score Keeper app which gives a user the ability to keep track of the sc
 **Launcher Icon:** https://www.flaticon.com/free-icon/basketball_124149#term=basketball%20player&page=1&position=8
 
 **Gif Optimizer:** https://ezgif.com/optimize
+
+**Gif Maker:** https://imgflip.com/gif-maker
