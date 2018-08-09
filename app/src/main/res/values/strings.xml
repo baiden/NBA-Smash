@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NBA Smash</string>
+
+    <!--Lakers Strings-->
+    <string name="lakers_logo">Lakers Logo</string>
+    <string name="lakers_label_txtview">Lakers</string>
+    <string name="lakers_default_score">0</string>
+    <string name="lakers_plus_threePoints">+3 Points</string>
+    <string name="lakers_plus_twoPoints">+2 Points</string>
+    <string name="lakers_plus_onePoint">Free throw</string>
+
+    <!--Celtics Strings-->
+    <string name="celtics_logo">Celtics Logo</string>
+    <string name="celtics_label_txtview">Celtics</string>
+    <string name="celtics_default_score">0</string>
+    <string name="celtics_plus_threePoints">+3 Points</string>
+    <string name="celtics_plus_twoPoints">+2 Points</string>
+    <string name="celtics_plus_onePoint">Free throw</string>
+
+    <!--Rest Button-->
+    <string name="resetBtn">Reset</string>
+</resources>
